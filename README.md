@@ -5,7 +5,33 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmulhossain17" alt="nazmulhossain17" /></a> </p>
 
-- 🌱 I’m currently learning **and expanding my skill set to stay at the forefront of the ever-evolving tech landscape. Here's what I'm diving into: 🌐 Full Stack Development: I'm actively honing my skills in both front-end and back-end development. From crafting captivating user interfaces with HTML, CSS, and JavaScript, to building robust server-side logic with Node.js and Express, I'm dedicated to creating seamless end-to-end experiences. 🛢️ MERN Stack Mastery: My journey includes mastering the MERN (MongoDB, Express, React, Node.js) stack. I'm deeply engaged in understanding the intricacies of MongoDB for data storage, Express for API creation, React for dynamic user interfaces, and Node.js for scalable server-side solutions. 🎨 UI/UX Design Enhancement: Continuously refining my design skills, I'm learning to create user-centric interfaces that blend aesthetics with usability, resulting in captivating and intuitive user experiences. 🤖 Machine Learning Explorations: I'm venturing into the realm of machine learning and neural networks, aiming to integrate AI capabilities into my projects and develop intelligent solutions. ☁️ Cloud Technologies: With a focus on scalability and efficiency, I'm deepening my knowledge of cloud platforms like AWS and Azure, enabling me to architect and deploy robust applications that can handle real-world demands. 📚 Architectural Best Practices: Studying design patterns and architectural principles to ensure my solutions are not only functional but also maintainable, scalable, and aligned with industry best practices.**
+- 🌱 I’m currently learning **and expanding my skill set to stay at the forefront of the ever-evolving tech landscape. Here's what I'm diving into:
+- <ul>
+  <li>
+    <h3>Full Stack Development 🌐</h3>
+    <p>I'm actively honing my skills in both front-end and back-end development. From crafting captivating user interfaces with HTML, CSS, and JavaScript, to building robust server-side logic with Node.js and Express, I'm dedicated to creating seamless end-to-end experiences.</p>
+  </li>
+  <li>
+    <h3>MERN Stack Mastery 🛢️</h3>
+    <p>My journey includes mastering the MERN (MongoDB, Express, React, Node.js) stack. I'm deeply engaged in understanding the intricacies of MongoDB for data storage, Express for API creation, React for dynamic user interfaces, and Node.js for scalable server-side solutions.</p>
+  </li>
+  <li>
+    <h3>UI/UX Design Enhancement 🎨</h3>
+    <p>Continuously refining my design skills, I'm learning to create user-centric interfaces that blend aesthetics with usability, resulting in captivating and intuitive user experiences.</p>
+  </li>
+  <li>
+    <h3>Machine Learning Explorations 🤖</h3>
+    <p>I'm venturing into the realm of machine learning and neural networks, aiming to integrate AI capabilities into my projects and develop intelligent solutions.</p>
+  </li>
+  <li>
+    <h3>Cloud Technologies ☁️</h3>
+    <p>With a focus on scalability and efficiency, I'm deepening my knowledge of cloud platforms like AWS and Azure, enabling me to architect and deploy robust applications that can handle real-world demands.</p>
+  </li>
+  <li>
+    <h3>Architectural Best Practices 📚</h3>
+    <p>Studying design patterns and architectural principles to ensure my solutions are not only functional but also maintainable, scalable, and aligned with industry best practices.</p>
+  </li>
+</ul>
 
 - 👯 I’m looking to collaborate on **exciting and impactful projects that challenge the status quo and drive positive change. Whether it's a web application that enhances user experiences, a platform that solves real-world problems, or an innovative tech endeavor, count me in! 💡 I'm particularly interested in projects that involve: 🌐 Full-stack web development 📱 Mobile app development 🤖 Machine learning and AI applications 🌍 Social impact and sustainability initiatives 💡 Innovative tech experiments and prototypes**
 
