@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmulhossain17" alt="nazmulhossain17" /></a> </p>
 
-- 🌱 I’m currently learning **and expanding my skill set to stay at the forefront of the ever-evolving tech landscape. Here's what I'm diving into:
+- <h2>🌱 I’m currently learning **and expanding my skill set to stay at the forefront of the ever-evolving tech landscape. Here's what I'm diving into:</h2>
 - <ul>
   <li>
     <h3>Full Stack Development 🌐</h3>
@@ -26,10 +26,6 @@
   <li>
     <h3>Cloud Technologies ☁️</h3>
     <p>With a focus on scalability and efficiency, I'm deepening my knowledge of cloud platforms like AWS and Azure, enabling me to architect and deploy robust applications that can handle real-world demands.</p>
-  </li>
-  <li>
-    <h3>Architectural Best Practices 📚</h3>
-    <p>Studying design patterns and architectural principles to ensure my solutions are not only functional but also maintainable, scalable, and aligned with industry best practices.</p>
   </li>
 </ul>
 
